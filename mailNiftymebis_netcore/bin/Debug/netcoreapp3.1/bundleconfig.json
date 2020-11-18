@@ -1,0 +1,38 @@
+[
+  //{
+  //  "outputFileName": "wwwroot/css/bundle.min.css",
+  //  "inputFiles": [
+
+  //    ""
+
+  //  ],
+  //  "minify": {
+
+  //    "enabled": true,
+  //    "commentMode": "none"
+  //  }
+  //},
+
+  {
+    "outputFileName": "wwwroot/js/bundle.min.js",
+    "inputFiles": [
+
+      "wwwroot/Content/js/page/*.js"
+      //"!wwwroot/js/all/highlight.pack.js" //ünlem ile belirtilen dosyalar iþleme alýnmaz
+
+    ],
+    "minify": {
+
+      "enabled": true,
+      "renameLocals": true,
+      "commentMode": "none"
+
+    },
+
+    "sourceMap": false  
+
+
+  }
+
+
+]

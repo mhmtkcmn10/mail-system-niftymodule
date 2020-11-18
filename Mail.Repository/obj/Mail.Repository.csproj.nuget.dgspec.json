@@ -1,0 +1,232 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Repository\\Mail.Repository.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Data\\Mail.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Data\\Mail.Data.csproj",
+        "projectName": "Mail.Data",
+        "projectPath": "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Data\\Mail.Data.csproj",
+        "packagesPath": "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mehmet.kocaman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\10.150.0.91\\NugetPaketleri": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Giga.Core": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Giga.Repository": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Giga.Repository.MongoDB": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Models\\Mail.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Models\\Mail.Models.csproj",
+        "projectName": "Mail.Models",
+        "projectPath": "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Models\\Mail.Models.csproj",
+        "packagesPath": "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mehmet.kocaman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\10.150.0.91\\NugetPaketleri": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Data\\Mail.Data.csproj": {
+                "projectPath": "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Data\\Mail.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Giga.Core": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Giga.Repository": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Giga.Repository.MongoDB": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Repository\\Mail.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Repository\\Mail.Repository.csproj",
+        "projectName": "Mail.Repository",
+        "projectPath": "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Repository\\Mail.Repository.csproj",
+        "packagesPath": "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mehmet.kocaman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\10.150.0.91\\NugetPaketleri": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Data\\Mail.Data.csproj": {
+                "projectPath": "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Data\\Mail.Data.csproj"
+              },
+              "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Models\\Mail.Models.csproj": {
+                "projectPath": "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Models\\Mail.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Giga.Core": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Giga.Repository": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Giga.Repository.MongoDB": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

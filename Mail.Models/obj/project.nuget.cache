@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "mawFgr2xCUNSLuhpk22RuM52Wc3OQMl33rxcQj19gCtnsii92Sh15zxLL8EJcxSgxGfjAl/jQj/8BnLiltBTNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mehmet.kocaman\\source\\repos\\mailMebis_REPO\\Mail.Models\\Mail.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
+    "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\giga.core\\1.0.0\\giga.core.1.0.0.nupkg.sha512",
+    "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\giga.repository\\1.0.0\\giga.repository.1.0.0.nupkg.sha512",
+    "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\giga.repository.mongodb\\1.0.0\\giga.repository.mongodb.1.0.0.nupkg.sha512",
+    "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\mongodb.bson\\2.11.2\\mongodb.bson.2.11.2.nupkg.sha512",
+    "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\mongodb.driver\\2.11.2\\mongodb.driver.2.11.2.nupkg.sha512",
+    "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\mongodb.driver.core\\2.11.2\\mongodb.driver.core.2.11.2.nupkg.sha512",
+    "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\mongodb.libmongocrypt\\1.0.0\\mongodb.libmongocrypt.1.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
+    "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
+    "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512",
+    "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\mehmet.kocaman\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

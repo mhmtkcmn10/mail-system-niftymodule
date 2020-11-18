@@ -1,0 +1,67 @@
+﻿@{ Layout = "~/Views/Shared/_LayoutMasterPage.cshtml"; }
+@model MailApp.Models.MailModel
+<div id="content-container">
+    <div id="page-head">
+    </div>
+    <div id="page-content">
+        <div class="panel">
+            <div class="panel-body">
+                <div class="fixed-fluid">
+                    <div class="fixed-sm-200 pull-sm-left fixed-right-border">
+                        <div class="pad-btm bord-btm">
+                            <a href="~/MailCompose/MailCompose" class="btn btn-block btn-success">Compose Mail</a>
+                        </div>
+                        <p class="pad-hor mar-top text-main text-bold text-sm text-uppercase">Folders</p>
+                        <div class="list-group bg-trans pad-btm bord-btm">
+                            <a href="~/MBInbox/MBInbox" class="list-group-item">
+                                <i class="demo-pli-mail-unread icon-lg icon-fw"></i> Inbox (@ViewBag.readCount)
+                            </a>
+                            <a href="~/MBSend/MBSend" class="list-group-item">
+                                <i class="demo-pli-mail-send icon-lg icon-fw"></i> Send
+                            </a>
+                        </div>
+                    </div>
+                    <div class="fluid" id="container-animation">
+                        <form id="mailComposeForm">
+                            <div class="form-group">
+                                <label class="col-lg-1 control-label text-left" for="inputEmail">To</label>
+                                <div class="col-lg-11">
+                                    <select id="demo-cs-multiselect" data-placeholder="Choose a User ..." multiple tabindex="5" name="Taker">
+                                        @foreach (var users in ViewBag.userInformationList)
+                                        {
+                                            <option value="@users.UserId">
+                                                @users.Name @users.Surname
+                                            </option>
+                                        }
+                                    </select>
+                                    <br />
+                                </div>
+                            </div>
+                            <br />
+                            <br />
+                            <div class="form-group">
+                                <label class="col-lg-1 control-label text-left" for="inputSubject">Subject</label>
+                                <div class="col-lg-11">
+                                    <input type="text" id="txtMailComposeTitle" name="title" class="form-control">
+                                    <br />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="col-lg-1 control-label text-left" for="inputMessage">Message</label>
+                                <div class="col-lg-11">
+                                    <input type="text" id="summernoteMailCompose" name="message" class="form-control">
+                                    <br />
+                                </div>
+                            </div>
+                        </form>
+                        <div class="pad-ver">
+                            <button id="btnCompose" type="submit" name="submit" class="btn btn-primary btn-lg btn-block">
+                                <i class="demo-psi-mail-send icon-lg icon-fw" id="btnSendMail"></i>Send Message
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

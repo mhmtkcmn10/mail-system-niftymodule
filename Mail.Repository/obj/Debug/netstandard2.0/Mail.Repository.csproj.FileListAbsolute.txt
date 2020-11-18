@@ -1,0 +1,14 @@
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Repository\bin\Debug\netstandard2.0\Mail.Repository.deps.json
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Repository\bin\Debug\netstandard2.0\Mail.Repository.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Repository\obj\Debug\netstandard2.0\Mail.Repository.csprojAssemblyReference.cache
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Repository\obj\Debug\netstandard2.0\Mail.Repository.AssemblyInfoInputs.cache
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Repository\obj\Debug\netstandard2.0\Mail.Repository.AssemblyInfo.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Repository\bin\Debug\netstandard2.0\Mail.Repository.pdb
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Repository\bin\Debug\netstandard2.0\Mail.Data.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Repository\bin\Debug\netstandard2.0\Mail.Models.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Repository\bin\Debug\netstandard2.0\Mail.Data.pdb
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Repository\bin\Debug\netstandard2.0\Mail.Models.pdb
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Repository\obj\Debug\netstandard2.0\Mail.Repository.csproj.CopyComplete
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Repository\obj\Debug\netstandard2.0\Mail.Repository.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Repository\obj\Debug\netstandard2.0\Mail.Repository.pdb
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Repository\obj\Debug\netstandard2.0\Mail.Repository.csproj.CoreCompileInputs.cache

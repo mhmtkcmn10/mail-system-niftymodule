@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.0" />
+    <PackageReference Include="BuildBundlerMinifier" Version="3.2.449" />
+    <PackageReference Include="Giga.Core" Version="1.0.0" />
+    <PackageReference Include="Giga.Repository" Version="1.0.0" />
+    <PackageReference Include="Giga.Repository.MongoDB" Version="1.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.9" />
+    <PackageReference Include="Microsoft.jQuery.Unobtrusive.Ajax" Version="3.2.6" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="MongoDB.Driver" Version="2.11.3" />
+    <PackageReference Include="PagedList.Core.Mvc" Version="3.0.0" />
+    <PackageReference Include="X.PagedList.Mvc.Bootstrap4" Version="8.0.7.1" />
+    <PackageReference Include="X.PagedList.Mvc.Core" Version="8.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Content\plugins\flot-charts\examples\gauge\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mail.Data\Mail.Data.csproj" />
+    <ProjectReference Include="..\Mail.Models\Mail.Models.csproj" />
+    <ProjectReference Include="..\Mail.Repository\Mail.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Nifty</title>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+    <!--Bootstrap Stylesheet [ REQUIRED ]-->
+    <link href="~/Content/css/bootstrap.min.css" rel="stylesheet">
+    <!--Nifty Stylesheet [ REQUIRED ]-->
+    <link href="~/Content/css/nifty.min.css" rel="stylesheet">
+    <!--Nifty Premium Icon [ DEMONSTRATION ]-->
+    <link href="~/Content/css/demo/nifty-demo-icons.min.css" rel="stylesheet">
+    <!--=================================================-->
+    <!--Pace - Page Load Progress Par [OPTIONAL]-->
+    <link href="~/Content/plugins/pace/pace.min.css" rel="stylesheet">
+    <script src="~/Content/plugins/pace/pace.min.js"></script>
+    <!--Summernote [ OPTIONAL ]-->
+    <link href="~/Content/plugins/summernote/summernote.min.css" rel="stylesheet">
+    <!--Chosen [ OPTIONAL ]-->
+    <link href="~/Content/plugins/chosen/chosen.min.css" rel="stylesheet">
+    <link href="~/Content/plugins/animate-css/animate.min.css" rel="stylesheet">
+    <link href="~/Content/plugins/css-loaders/css/css-loaders.css" rel="stylesheet">
+    <link href="~/Content/css/page/page_animation.css" rel="stylesheet">
+    <link href="~/Content/premium/icon-sets/icons/solid-icons/premium-solid-icons.css" rel="stylesheet">
+</head>
+<body>
+
+    @Html.Partial("_CookiePopup")
+
+    <div id="container" class="effect aside-float aside-bright mainnav-lg">
+
+        <!--NAVBAR-->
+        <!--===================================================-->
+        <header id="navbar">
+            <div id="navbar-container" class="boxed">
+                @Html.Partial("_Header")
+            </div>
+        </header>
+        <!--===================================================-->
+        <!--END NAVBAR-->
+        <div class="boxed">
+            @RenderBody()
+            <aside id="aside-container">
+                <div id="aside">
+                    @Html.Partial("_AsideContainer")
+                </div>
+            </aside>
+            <!--===================================================-->
+            <!--END ASIDE-->
+            <!--MAIN NAVIGATION-->
+            <!--===================================================-->
+            <nav id="mainnav-container">
+                <div id="mainnav">
+                    @Html.Partial("_NavContainer")
+                </div>
+            </nav>
+            <!--===================================================-->
+            <!--END MAIN NAVIGATION-->
+        </div>
+        <!-- FOOTER -->
+        <!--===================================================-->
+        <footer id="footer">
+            @Html.Partial("_Footer")
+        </footer>
+        <!--===================================================-->
+        <!-- END FOOTER -->
+        <!-- SCROLL PAGE BUTTON -->
+        <!--===================================================-->
+        <button class="scroll-top btn">
+            <i class="pci-chevron chevron-up"></i>
+        </button>
+        <!--===================================================-->
+    </div>
+    <script src="~/Content/js/jquery.min.js"></script>
+    <!--BootstrapJS [ RECOMMENDED ]-->
+    <script src="~/Content/js/bootstrap.min.js"></script>
+    <!--NiftyJS [ RECOMMENDED ]-->
+    <script src="~/Content/js/nifty.min.js"></script>
+    <!--=================================================-->
+    <!--Demo script [ DEMONSTRATION ]-->
+    <script src="~/Content/js/demo/nifty-demo.min.js"></script>
+
+    <script src="~/Content/plugins/flot-charts/jquery.flot.min.js"></script>
+    <script src="~/Content/plugins/flot-charts/jquery.flot.resize.min.js"></script>
+    <script src="~/Content/plugins/flot-charts/jquery.flot.tooltip.min.js"></script>
+
+    <script src="~/Content/plugins/sparkline/jquery.sparkline.min.js"></script>
+
+    @*<script src="~/Content/js/page/MBSend.js"></script>
+        <script src="~/Content/js/page/MBInbox.js"></script>
+        <script src="~/Content/js/page/MBInboxMES.js"></script>
+        <script src="~/Content/js/page/MBSendMES.js"></script>*@
+
+    <script src="~/Content/plugins/chosen/chosen.jquery.min.js"></script>
+
+    <!--Summernote [ OPTIONAL ]-->
+    <script src="~/Content/plugins/summernote/summernote.min.js"></script>
+
+    <link href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-lite.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote-lite.min.js"></script>
+
+    @*<script src="~/Content/js/page/MailCompose.js"></script>*@
+    <script src="~/Content/js/demo/form-component.js"></script>
+
+    @*<script src="~/Content/js/page/MasterPage.js"></script>
+    <script src="~/Content/js/page/CookiePopup.js"></script>*@
+    <script src="~/Content/js/demo/icons.js"></script>
+    <script src="~/Content/js/demo/dashboard.js"></script>
+    <script src="~/js/bundle.min.js"></script>
+
+</body>
+</html>

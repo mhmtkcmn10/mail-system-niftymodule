@@ -1,0 +1,153 @@
+﻿@using X.PagedList.Mvc.Core
+@using X.PagedList
+@using X.PagedList.Mvc.Core.Common
+@using X.PagedList.Mvc.Bootstrap4.Core
+
+@{  Layout = "~/Views/Shared/_LayoutMasterPage.cshtml"; }
+
+<div id="content-container">
+    <div id="page-head">
+    </div>
+    <div id="page-content">
+        <div class="panel">
+            <div class="panel-body">
+                <div class="fixed-fluid">
+                    <div class="fixed-sm-200 pull-sm-left fixed-right-border">
+                        <div class="pad-btm bord-btm">
+                            <a href="~/MailCompose/MailCompose" class="btn btn-block btn-success">Compose Mail</a>
+                        </div>
+                        <p class="pad-hor mar-top text-main text-bold text-sm text-uppercase">Folders</p>
+                        <div class="list-group bg-trans pad-btm bord-btm">
+                            <a href="~/MBInbox/MBInbox" class="list-group-item mail-nav-unread">
+                                <i class="demo-pli-mail-unread icon-lg icon-fw"></i> Inbox (@ViewBag.readCount)
+                            </a>
+                            <a href="~/MBSend/MBSend" class="list-group-item ">
+                                <i class="demo-pli-mail-send icon-lg icon-fw"></i> Send
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="panel-body" id="loader" style="display:none; position:absolute; left:45%; top:30%;">
+                        <div class="load4">
+                            <div class="loader"></div>
+                        </div>
+                    </div>
+                    <div class="fluid" id="container-animation">
+                        <div id="demo-email-list">
+                            <div id="kutucuklar">
+                                <div class="row">
+                                    <div class="col-sm-7 toolbar-left">
+
+                                        <div class="btn-group">
+                                            <label id="demo-checked-all-mail" for="select-all-mail" class="btn btn-default">
+                                                <input type="checkbox" id="select_all_INBOX" />
+                                            </label>
+                                            <button data-toggle="dropdown" class="btn btn-default dropdown-toggle"><i class="dropdown-caret"></i></button>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="#" id="btnInboxAll">Tümü</a></li>
+                                                <li><a href="#" id="btnInboxNone">Hiçbiri</a></li>
+                                                <li class="divider"></li>
+                                                <li><a href="#" id="btnInboxAllRead">Okundu</a></li>
+                                                <li><a href="#" id="btnInboxAllUnRead">Okunmadı</a></li>
+                                            </ul>
+                                        </div>
+
+                                        <!--Refresh button-->
+
+                                        <button id="demo-mail-ref-btn" data - toggle="panel-overlay" data-target="#demo-email-list" class="btn btn-default" type="button" onclick="location.href='@Url.Action("MBInbox", "MBInbox",new { Sorting_Order = ViewBag.SortingDate})'">
+                                            <i class="demo-psi-repeat-2"></i>
+                                        </button>
+
+                                        <!--Dropdown button (More Action)-->
+                                        <div class="btn-group dropdown">
+                                            <button data-toggle="dropdown" class="btn btn-default dropdown-toggle" type="button">
+                                                Diğer <i class="dropdown-caret"></i>
+                                            </button>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="#" id="btnInboxRead">Okundu İşaretle</a></li>
+                                                <li><a href="#" id="btnInboxUnRead">Okunmadı İşaretle</a></li>
+                                                <li><a href="#" id="btnInboxAllDelete">Tümünü Sil</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-5 toolbar-right">
+                                        <!--Pager buttons-->
+                                        <span class="text-main">
+                                            <strong>@Model.FirstItemOnPage - @Model.LastItemOnPage</strong>
+                                            of
+                                            <strong>@Model.TotalItemCount</strong>
+                                        </span>
+                                        <div class="btn-group btn-group">
+                                            @Html.PagedListPager((IPagedList)ViewBag.PagedListMailDetails, Page_No => Url.Action("MBInbox",
+                                                                         new { Page_No, Sorting_Order = ViewBag.CurrentSortOrder }),Bootstrap4PagedListRenderOptions.Minimal)
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--Mail list group-->
+
+                                <ul id="demo-mail-list" class="mail-list pad-top bord-top">
+                                    @foreach (var mail in Model)
+                                    {
+                                        <li class="mail-starred @(mail.mailDetailStatus == 0 ? "mail-list-unread" : "")">
+                                            <div class="mail-control">
+                                                <input type="checkbox" name="checkBox" class="clssInboxCheckBox@(mail.mailDetailStatus == 0 ? "unread" : "")" value="@mail.MailDetailsId">
+                                            </div>
+                                            <div class="mail-star"><a href="#"><i class="demo-psi-star"></i></a></div>
+                                            <div class="mail-from">
+
+                                                <a href="@Url.Action("MBInboxMES", "MBInbox", new { id = mail.MailDetailsId })">
+                                                    @mail.UserSenderInfo.Name @mail.UserSenderInfo.Surname
+                                                </a>
+                                            </div>
+                                            <div class="mail-time">
+                                                @mail.Mails.Date
+
+                                            </div>
+                                            <div class="mail-attach-icon"></div>
+                                            <div class="mail-subject">
+                                                <a href="@Url.Action("MBInboxMES", "MBInbox",  new { id=mail.MailDetailsId})">
+                                                    @mail.Mails.Title
+                                                </a>
+                                            </div>
+                                        </li>
+                                        }
+                                </ul>
+                                <div class="modal fade" id="mdlInboxMailDeleteModal">
+                                    <div class="modal-dialog">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal"><i class="pci-cross pci-circle"></i></button>
+                                                <h4 class="modal-title">Silme Onaylama</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <p>Silmek için emin misiniz ?</p>
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button class="btn btn-default" data-dismiss="modal" type="button">Close</button>
+                                                <button class="btn btn-primary" type="button" onclick="InboxMailDeleteConfirm()">Confirm</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Mail footer-->
+                        <div class="panel-footer clearfix">
+                            <div class="pull-right">
+                                <span class="text-main">
+                                    <strong>@Model.FirstItemOnPage - @Model.LastItemOnPage</strong>
+                                    of
+                                    <strong>@Model.TotalItemCount</strong>
+                                </span>
+                                <div class="btn-group btn-group">
+                                    @Html.PagedListPager((IPagedList)ViewBag.PagedListMailDetails, Page_No => Url.Action("MBInbox",
+                                                                         new { Page_No, Sorting_Order = ViewBag.CurrentSortOrder }), Bootstrap4PagedListRenderOptions.Minimal)
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

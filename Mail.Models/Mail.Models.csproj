@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Giga.Core" Version="1.0.0" />
+    <PackageReference Include="Giga.Repository" Version="1.0.0" />
+    <PackageReference Include="Giga.Repository.MongoDB" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mail.Data\Mail.Data.csproj" />
+  </ItemGroup>
+
+</Project>

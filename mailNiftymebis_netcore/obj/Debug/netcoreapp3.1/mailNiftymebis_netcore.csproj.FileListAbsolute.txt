@@ -1,0 +1,584 @@
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.exe
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.AssemblyInfoInputs.cache
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.AssemblyInfo.cs
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorAssemblyInfo.cache
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorAssemblyInfo.cs
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.TagHelpers.input.cache
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.TagHelpers.output.cache
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorCoreGenerate.cache
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorTargetAssemblyInfo.cache
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorTargetAssemblyInfo.cs
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\staticwebassets\mailNiftymebis_netcore.StaticWebAssets.Manifest.cache
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\staticwebassets\mailNiftymebis_netcore.StaticWebAssets.xml
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.csproj.CoreCompileInputs.cache
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.csproj.CopyComplete
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.deps.json
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.runtimeconfig.json
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.runtimeconfig.dev.json
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.pdb
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.Views.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.Views.pdb
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.Views.pdb
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.dll
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.pdb
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.genruntimeconfig.cache
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMasterPage.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\UserLogin\UserLogin.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\UserRegister\UserRegister.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.csprojAssemblyReference.cache
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\MBInbox\MBInbox.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\MailCompose\MailCompose.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.exe
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.deps.json
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.runtimeconfig.json
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.runtimeconfig.dev.json
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.pdb
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.Views.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.AssemblyInfoInputs.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.AssemblyInfo.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorAssemblyInfo.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorAssemblyInfo.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.TagHelpers.input.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.TagHelpers.output.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorCoreGenerate.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\MailCompose\MailCompose.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\MBInbox\MBInbox.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMasterPage.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\UserLogin\UserLogin.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\UserRegister\UserRegister.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorTargetAssemblyInfo.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorTargetAssemblyInfo.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.csproj.CopyComplete
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\staticwebassets\mailNiftymebis_netcore.StaticWebAssets.Manifest.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\staticwebassets\mailNiftymebis_netcore.StaticWebAssets.xml
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.pdb
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.genruntimeconfig.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\PagedList.Core.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\PagedList.Core.Mvc.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.Views.pdb
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.Views.pdb
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\MBSend\MBSend.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\MBInbox\MBInboxMes.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\MBSend\MBSendMES.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.exe
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.deps.json
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.runtimeconfig.json
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.runtimeconfig.dev.json
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.pdb
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.Views.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.Views.pdb
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\PagedList.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\PagedList.Core.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\PagedList.Core.Mvc.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\PagedList.Mvc.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.csprojAssemblyReference.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.AssemblyInfoInputs.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.AssemblyInfo.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.csproj.CoreCompileInputs.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorAssemblyInfo.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorAssemblyInfo.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.TagHelpers.input.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.TagHelpers.output.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorCoreGenerate.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\MailCompose\MailCompose.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\MBInbox\MBInbox.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\MBInbox\MBInboxMes.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\MBSend\MBSend.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\MBSend\MBSendMES.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMasterPage.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\UserLogin\UserLogin.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\UserRegister\UserRegister.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorTargetAssemblyInfo.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorTargetAssemblyInfo.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.Views.pdb
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.csproj.CopyComplete
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\staticwebassets\mailNiftymebis_netcore.StaticWebAssets.Manifest.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\staticwebassets\mailNiftymebis_netcore.StaticWebAssets.xml
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.pdb
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core - Copy\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.genruntimeconfig.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.csproj.CoreCompileInputs.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mehmet.kocaman\source\repos\mailmebis_core\mailNiftymebis_netcore\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.csprojAssemblyReference.cache
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.csprojAssemblyReference.cache
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.AssemblyInfoInputs.cache
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.AssemblyInfo.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorAssemblyInfo.cache
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorAssemblyInfo.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.pdb
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.exe
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.deps.json
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.runtimeconfig.json
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.runtimeconfig.dev.json
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.pdb
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.Views.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\mailNiftymebis_netcore.Views.pdb
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Giga.Core.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Giga.Repository.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Giga.Repository.MongoDB.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\PagedList.Core.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\PagedList.Core.Mvc.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Mail.Data.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Mail.Models.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Mail.Repository.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Mail.Data.pdb
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Mail.Models.pdb
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\Mail.Repository.pdb
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.TagHelpers.input.cache
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.TagHelpers.output.cache
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorCoreGenerate.cache
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\MailCompose\MailCompose.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\MBInbox\MBInbox.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\MBInbox\MBInboxMes.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\MBSend\MBSend.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\MBSend\MBSendMES.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMasterPage.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\UserLogin\UserLogin.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\UserRegister\UserRegister.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorTargetAssemblyInfo.cache
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.RazorTargetAssemblyInfo.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.Views.pdb
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.csproj.CopyComplete
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\staticwebassets\mailNiftymebis_netcore.StaticWebAssets.Manifest.cache
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\staticwebassets\mailNiftymebis_netcore.StaticWebAssets.xml
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.genruntimeconfig.cache
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AsideContainer.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NavContainer.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookiePopup.cshtml.g.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Bootstrap4.Core.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.csproj.CoreCompileInputs.cache
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\mailNiftymebis_netcore\obj\Debug\netcoreapp3.1\mailNiftymebis_netcore.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,101 @@
+﻿
+@{ Layout = null; }
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Register page | Nifty - Admin Template</title>
+
+    <!--Open Sans Font [ OPTIONAL ]-->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+
+    <!--Bootstrap Stylesheet [ REQUIRED ]-->
+    <link href="~/Content/css/bootstrap.min.css" rel="stylesheet">
+
+    <!--Nifty Stylesheet [ REQUIRED ]-->
+    <link href="~/Content/css/nifty.min.css" rel="stylesheet">
+
+    <!--Nifty Premium Icon [ DEMONSTRATION ]-->
+    <link href="~/Content/css/demo/nifty-demo-icons.min.css" rel="stylesheet">
+
+    <!--=================================================-->
+    <!--Pace - Page Load Progress Par [OPTIONAL]-->
+    <link href="~/Content/plugins/pace/pace.min.css" rel="stylesheet">
+    <script src="~/Content/plugins/pace/pace.min.js"></script>
+
+    <!--Demo [ DEMONSTRATION ]-->
+    <link href="~/Content/css/demo/nifty-demo.min.css" rel="stylesheet">
+
+    <link href="~/Content/plugins/animate-css/animate.min.css" rel="stylesheet">
+    <link href="~/Content/plugins/css-loaders/css/css-loaders.css" rel="stylesheet">
+    <link href="~/Content/premium/icon-sets/icons/solid-icons/premium-solid-icons.css" rel="stylesheet">
+
+
+</head>
+
+<body>
+    <div id="container" class="cls-container">
+        <div id="bg-overlay" class="bg-img" style="background-image: url(/Content/img/bg-img/bg-img-5.jpg);"></div>
+        <div class="cls-content">
+            <div class="cls-content-lg panel">
+                <div class="panel-body" id="loader" style="display:none; position:absolute; left:45%; top:30%">
+                    <div class="load4">
+                        <div class="loader"></div>
+                    </div>
+                </div>
+                <div class="panel-body" id="anagovde">
+                    <div class="mar-ver pad-btm">
+                        <h1 class="h3">Yeni Hesap Oluşturma</h1>
+                    </div>
+                    <form id="registerFORM">
+                        <div class="row">
+                            <div class="form-group">
+                                <input id="namex" type="text" class="form-control" placeholder="Ad" name="name">
+                            </div>
+                            <div class="form-group">
+                                <input id="surnamex" type="text" class="form-control" placeholder="Soyad" name="surname">
+                            </div>
+                            <div class="form-group">
+                                <input type="email" class="form-control" id="emailx" placeholder="Email" name="email">
+
+                            </div>
+                            <div class="form-group">
+                                <input id="usernamex" type="text" class="form-control" placeholder="Kullanıcı Adı" name="username">
+                            </div>
+                            <div class="form-group">
+                                <input id="passwordx" type="password" class="form-control" placeholder="Şifre" name="password">
+                            </div>
+                        </div>
+                        <div class="checkbox pad-btm text-left">
+                            <input id="demo-form-checkbox" class="magic-checkbox" type="checkbox">
+                            <label for="demo-form-checkbox"><a href="#" class="btn-link text-bold">Hüküm ve Koşulları</a> kabul ediyorum</label>
+                        </div>
+                        <button id="btnRegister" class="btn btn-primary btn-lg btn-block" type="submit">Kayıt ol</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--jQuery [ REQUIRED ]-->
+    <script src="~/Content/js/jquery.min.js"></script>
+
+    <!--BootstrapJS [ RECOMMENDED ]-->
+    <script src="~/Content/js/bootstrap.min.js"></script>
+
+    <!--NiftyJS [ RECOMMENDED ]-->
+    <script src="~/Content/js/nifty.min.js"></script>
+    <!--=================================================-->
+    <!--Background Image [ DEMONSTRATION ]-->
+    <script src="~/Content/js/demo/bg-images.js"></script>
+
+    <script src="~/Content/js/page/UserRegister.js"></script>
+
+    <script src="~/Content/js/demo/icons.js"></script>
+
+</body>
+</html>

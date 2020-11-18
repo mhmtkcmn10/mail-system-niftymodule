@@ -1,0 +1,157 @@
+﻿@{ Layout = "~/Views/Shared/_LayoutMasterPage.cshtml"; }
+@model MailApp.Models.MailDetailsModel
+
+<div id="content-container">
+    <div id="page-head">
+    </div>
+    <!--Page content-->
+    <!--===================================================-->
+    <div id="page-content">
+
+        <div class="panel">
+            <div class="panel-body">
+                <div class="fixed-fluid">
+                    <div class="fixed-sm-200 pull-sm-left fixed-right-border">
+                        <div class="pad-btm bord-btm">
+                            <a href="~/MailCompose/MailCompose" class="btn btn-block btn-success">Compose Mail</a>
+                        </div>
+                        <p class="pad-hor mar-top text-main text-bold text-sm text-uppercase">Folders</p>
+                        <div class="list-group bg-trans pad-btm bord-btm">
+                            <a href="~/MBInbox/MBInbox" class="list-group-item">
+                                <i class="demo-pli-mail-unread icon-lg icon-fw"></i> Inbox (@ViewBag.readCount)
+                            </a>
+                            <a href="~/MBSend/MBSend" class="list-group-item">
+                                <i class="demo-pli-mail-send icon-lg icon-fw"></i> Send
+                            </a>
+                        </div>
+                    </div>
+                    <div class="fluid" id="container-animation">
+
+                        @foreach (var item in ViewBag.mailbilgi)
+                        {
+                            <div class="mar-btm pad-btm bord-btm">
+                                <h1 class="page-header text-overflow">
+                                    <text>@item.Mails.Title</text>
+                                    <input type="text" id="detailID" hidden="hidden" value="@item.Mails.MailId" />
+
+                                </h1>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-7 toolbar-left">
+                                    <!--Sender Information-->
+                                    <div class="media">
+                                        <span class="media-left">
+                                            <img src="~/Content/img/profile-photos/8.png" class="img-circle img-sm" alt="Profile Picture">
+                                        </span>
+                                        <div class="media-body text-left">
+                                            <div class="text-bold">@item.UserSenderInfo.Name @item.UserSenderInfo.Surname</div>
+                                            <small class="text-muted">@item.UserSenderInfo.Email</small>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-5 toolbar-right">
+
+                                    <!--Details Information-->
+                                    <p class="mar-no"><small class="text-muted">@item.Mails.Date</small></p>
+                                    <a href="#">
+                                        <i class="demo-psi-paperclip icon-lg icon-fw"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        <div class="row pad-top">
+                            <div class="col-sm-7 toolbar-left">
+
+                                <!--Mail toolbar-->
+                                <button class="btn btn-default"><i class="demo-pli-printer icon-lg"></i></button>
+                                <div class="btn-group btn-group">
+                                    <button class="btn btn-default"><i class="demo-pli-information icon-lg"></i></button>
+                                    <a href="#" class="btn btn-default" id="btnInboxMessageRemove">Remove</a>
+
+                                </div>
+                            </div>
+                            <div class="col-sm-5 toolbar-right">
+                                <!--Reply & forward buttons-->
+                                <div class="btn-group btn-group">
+                                    <a class="btn btn-default" href="#" id="btnInboxMessageRespond" title="Yanıtla">
+                                        <i class="demo-psi-left-4"></i>
+                                    </a>
+                                    <a class="btn btn-default" href="#" id="btnInboxMessageDirect" title="Yönlendir">
+                                        <i class="demo-psi-right-4"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mail-message">
+                            @Html.Raw(@item.Mails.Message)
+                        </div>
+
+                        <div id="InboxLoaderDirectOrRespondCustomize">
+
+                            <div class="load7" id="loaderInbox">
+                                <div class="loader"></div>
+                            </div>
+
+                            <div id="InboxMessageDirectOrRespondVisibility" class="hide">
+                                <select id="demo-cs-multiselect" data-placeholder="Choose a User ..." multiple tabindex="4" name="Taker[]">
+                                    <option selected="selected" value="@item.UserSenderInfo.UserId">@item.UserSenderInfo.Name @item.UserSenderInfo.Surname </option>
+
+                                    @foreach (var logins in ViewBag.loginList)
+                                    {
+                    <option value="@logins.UserId">
+                        @logins.Name @logins.Surname
+                    </option>
+}
+                                </select>
+
+                                <br />
+                                <br />
+                                <label class="col-lg-1 control-label text-left" for="inputSubject">Subject</label>
+                                <input type="text" id="txtInboxMessageTitle" name="inboxTitle" class="form-control" value="@item.Mails.Title">
+                                <br />
+                                <br />
+                                <div class="summernote" id="summernoteMailInboxMessage" name="inboxMessage">
+                                    <br />
+                                    <br />
+                                    <hr />
+                                    Kimden: @item.UserSenderInfo.Name @item.UserSenderInfo.Surname<br />
+                                    Konu: @item.Mails.Title<br />
+                                    Kime: @ViewBag.userName_SurName<br />
+                                    Tarih: @item.Mails.Date<br /><br />
+                                    @Html.Raw(@item.Mails.Message)
+                                </div>
+                            </div>
+                            <div id="demo-mail-textarea-inbox" class="mail-message-reply bg-trans-dark">
+                                <strong>Reply</strong> or <strong>Forward</strong> this message...
+                            </div> <!--Send button-->
+                            <div class="pad-btm">
+                                <button id="btnInboxMailMessageCompose" type="submit" name="submit" class="btn btn-primary btn-lg btn-block hide">
+                                    <i class="demo-psi-mail-send icon-lg icon-fw" id="btnSendMail"></i>Send Message
+                                </button>
+                            </div>
+                        </div>
+
+
+                        <div class="modal fade" id="mdlInboxMailMessageModal">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal"><i class="pci-cross pci-circle"></i></button>
+                                        <h4 class="modal-title">Silme Onaylama</h4>
+                                    </div>
+                                    <div class="modal-body">
+                                        <p>Silmek için emin misiniz ?</p>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button class="btn btn-default" data-dismiss="modal" type="button">Close</button>
+                                        <button class="btn btn-primary" type="button" name="@item.MailDetailsId" id="btnInboxDeleteMailMessage" onclick="InboxDeleteMailMessage()">Confirm</button>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

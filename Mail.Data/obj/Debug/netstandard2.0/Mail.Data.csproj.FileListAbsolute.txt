@@ -1,0 +1,8 @@
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Data\bin\Debug\netstandard2.0\Mail.Data.deps.json
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Data\bin\Debug\netstandard2.0\Mail.Data.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Data\obj\Debug\netstandard2.0\Mail.Data.AssemblyInfoInputs.cache
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Data\obj\Debug\netstandard2.0\Mail.Data.AssemblyInfo.cs
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Data\bin\Debug\netstandard2.0\Mail.Data.pdb
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Data\obj\Debug\netstandard2.0\Mail.Data.dll
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Data\obj\Debug\netstandard2.0\Mail.Data.pdb
+C:\Users\mehmet.kocaman\source\repos\mailMebis_REPO\Mail.Data\obj\Debug\netstandard2.0\Mail.Data.csproj.CoreCompileInputs.cache
