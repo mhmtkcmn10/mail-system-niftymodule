@@ -13,6 +13,12 @@
 
 * Kullanıcının oturum süresi dolduğunda modal popup açılarak kullanıcıya devam etmesi halinde yeni bir refresh token üretilir.
 
+## Uygulama Amacı
 
+```
+Kullanıcının gelen giden maillerinin kontrolünü sağlamak.
+Mail gönderme işlemlerini gerçekleştirmek.
+Kullanıcı güvenliği token bazlı auth işlemleri gerçekleştirmek.
+```
 
-
+ 
