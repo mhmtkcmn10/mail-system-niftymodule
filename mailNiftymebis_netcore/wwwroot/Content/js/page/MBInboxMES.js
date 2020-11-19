@@ -5,7 +5,9 @@ var icon_cursor_click = "psi-cursor-click";
 var icon_mail_send = "psi-mail-send";
 var noty_type_success = "success";
 var noty_type_danger = "danger";
-document.getElementById('loaderInbox').style.visibility = "hidden";
+$(document).ready(function () {
+    document.getElementById('loaderInbox').style.visibility = "hidden";
+})
 
 $.NotificationTypeMessage = function (Title, Message, Icon, Type) {
     $.niftyNoty({
